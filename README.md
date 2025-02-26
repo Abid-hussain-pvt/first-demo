@@ -1,2 +1,2 @@
 # first-demo
-This is first trial in github
+This is my first trial in github and my first repo
