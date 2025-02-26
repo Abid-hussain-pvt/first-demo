@@ -2,4 +2,5 @@
 This is my first trial in github and my first repo
 <br>
 Author: Abid Hussain .
-7th sem cse
+7th sem cse student at govt engineering clg koppal 
+
